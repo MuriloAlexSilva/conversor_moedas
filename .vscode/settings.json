@@ -1,5 +1,5 @@
 {
     "editor.minimap.enabled": false,
-    "debug.console.wordWrap": false,
-    "diffEditor.wordWrap": "off"
+    "diffEditor.wordWrap": "off",
+    "editor.wrappingIndent": "none"
 }
